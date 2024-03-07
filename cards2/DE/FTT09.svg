@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="105mm"
+   viewBox="0 0 74 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="FTT09.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9683222"
+     inkscape:cx="143.34697"
+     inkscape:cy="262.77471"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Tail"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       markerWidth="10.33044"
+       markerHeight="7"
+       viewBox="0 0 10.33044 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         id="tail"
+         style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="m -3.0000001,-3 -3.1102256,3 3.1102256,3 M -4.0952644e-8,-3 -3.0000001,0 -4.0952644e-8,3 M 3,3 -4.0952644e-8,0 3,-3"
+         sodipodi:nodetypes="ccccccccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2999"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2997" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="205.86257"
+       height="146.30523"
+       id="rect17087" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       viewBox="0 0 17.773854 10.156488"
+       markerWidth="17.773853"
+       markerHeight="10.156487"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       viewBox="0 0 17.773854 10.156488"
+       markerWidth="17.773853"
+       markerHeight="10.156487"
+       preserveAspectRatio="xMidYMid">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.298259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="65"
+       height="93.900375"
+       x="4.5"
+       y="5.5498133"
+       rx="5.1956244"
+       ry="0"
+       inkscape:export-filename="../../png/DE/part2/FTT09.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.470152"
+       id="rect964"
+       width="60.851757"
+       height="89.722946"
+       x="6.5741215"
+       y="7.6385288"
+       rx="3.9244702"
+       ry="4.0016785" />
+    <rect
+       style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
+       id="rect1717"
+       width="56.906704"
+       height="41.42675"
+       x="8.546648"
+       y="54.198826"
+       ry="3.0964251" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
+       id="text17085"
+       style="font-style:normal;font-weight:normal;font-size:8.8px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="31.304688"
+         y="212.3137"
+         id="tspan1474"><tspan
+           dx="0 0 0 1.298089 0 0 0 0 0 0 1.2980909"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1470">Es können auch </tspan><tspan
+           dx="1.2980909 0 0 0 0 0 1.2980881 0 0 0 0 0 0 0 0 1.2980804"
+           style="font-weight:bold"
+           id="tspan1472">FTT's mehrerer Personenen </tspan></tspan><tspan
+         x="31.304688"
+         y="221.99369"
+         id="tspan1480"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 11.022148"
+           style="font-weight:bold"
+           id="tspan1476">zeitgleich abgefragt</tspan><tspan
+           dx="0 11.022151 0 0 0 11.022151"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1478"> und manipuliert </tspan></tspan><tspan
+         x="31.304688"
+         y="231.67368"
+         id="tspan1484"><tspan
+           dx="0 0 0 0 0 0 0 0 5.26863 0 0 0 0 5.2686338 0 0 0 0 0 5.2686338 0 0 0 5.2686415 0 0 0 0 0 0 0 5.2686262"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1482">werden. Dann würde ein Gedanke des </tspan></tspan><tspan
+         x="31.304688"
+         y="241.35368"
+         id="tspan1488"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1486">Einen den/die Anderen beeinflussen. 
+</tspan></tspan><tspan
+         x="31.304688"
+         y="251.03367"
+         id="tspan1498"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1490">Also </tspan><tspan
+           dx="6.2964849"
+           style="font-weight:bold"
+           id="tspan1492">FALLS</tspan><tspan
+           dx="0 6.2964849 0 0 0 0 0 0 6.2964773 0 0 0 0 0 6.2964926"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1494"> Aquila denkt &quot;</tspan><tspan
+           dx="0 0 0 0 0 0 0 6.2964859"
+           style="fill:#ff2ad4"
+           id="tspan1496">Floppy mit </tspan></tspan><tspan
+         x="31.304688"
+         y="260.71366"
+         id="tspan1504"><tspan
+           style="font-weight:bold;fill:#ff2ad4"
+           id="tspan1500">Hundehalsband</tspan><tspan
+           dx="0 4.837471 0 0 0 4.837471 0 0 0 0 0 4.837471 0 0 0 0 4.8374786 0 0 4.837471"
+           style="fill:#ff2ad4"
+           id="tspan1502"> ist süss, weil es signalisiert </tspan></tspan><tspan
+         x="31.304688"
+         y="270.39365"
+         id="tspan1514"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 1.8008308"
+           style="fill:#ff2ad4"
+           id="tspan1506">Willigkeit und </tspan><tspan
+           dx="1.8008308"
+           style="fill:#ff2ad4"
+           id="tspan1508">Consensuality</tspan><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1510">&quot; </tspan><tspan
+           dx="1.8008375 0 0 0 0 1.8008194"
+           style="fill:#5555ff"
+           id="tspan1512">wird automatisch </tspan></tspan><tspan
+         x="31.304688"
+         y="280.07365"
+         id="tspan1522"><tspan
+           dx="0 0 0 0 2.3049507 0 0 0 0 0 0 2.3049507 0 0 0 0 0 0 0 0 0 0 0 2.3049469 0 0 0 0 2.3049469 0 0 2.3049545"
+           style="fill:#5555ff"
+           id="tspan1516">bei Floppy verhindert, dass er das </tspan><tspan
+           dx="2.3049545"
+           style="font-weight:bold;fill:#5555ff"
+           id="tspan1518">FREIWILLIG</tspan><tspan
+           style="fill:#5555ff"
+           id="tspan1520"> </tspan></tspan><tspan
+         x="31.304688"
+         y="289.75364"
+         id="tspan1532"><tspan
+           style="fill:#5555ff"
+           id="tspan1524">anzieht</tspan><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1526">, </tspan><tspan
+           style="font-weight:bold;fill:#0088aa"
+           id="tspan1528">THEORETISCH</tspan><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1530">.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="299.43363"
+         id="tspan1538"><tspan
+           dx="0 0 0 0 0 6.5857916 0 0 0 0 6.5857916 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6.5857954"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1534">Auch wenn Kollegen/innen die </tspan><tspan
+           dx="6.5857954"
+           style="font-weight:bold"
+           id="tspan1536">keine </tspan></tspan><tspan
+         x="31.304688"
+         y="309.11363"
+         id="tspan1544"><tspan
+           style="font-weight:bold"
+           id="tspan1540">Partnerschaft</tspan><tspan
+           dx="0 3.9457884 0 0 0 0 0 3.945796 0 0 0 3.9457884 0 0 3.945796"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1542"> haben nur zB Therapie-</tspan></tspan><tspan
+         x="31.304688"
+         y="318.79362"
+         id="tspan1548"><tspan
+           dx="0 0 0 0 0 1.3057871 0 0 0 0 0 0 0 0 0 0 0 0 1.305789 0 0 0 0 1.305789 0 0 0 0 0 0 0 0 0 1.3057966"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1546">Tips austauschen, dann versuchen diese </tspan></tspan><tspan
+         x="31.304688"
+         y="328.47361"
+         id="tspan1552"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 3.5010481 0 0 0 3.5010481 0 0 0 0 0 0 3.5010557"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1550">Algorithmen die beiden unfreiwilligen </tspan></tspan><tspan
+         x="31.304688"
+         y="338.1536"
+         id="tspan1560"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.5010481"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1554">&quot;LaborRatten&quot; allenfalls </tspan><tspan
+           dx="3.5010633"
+           style="font-weight:bold"
+           id="tspan1556">THEORETISCH</tspan><tspan
+           dx="0 3.5010481"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1558">  </tspan></tspan><tspan
+         x="31.304688"
+         y="347.8336"
+         id="tspan1564"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan1562">gegeneinander auszuspielen.</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.498943"
+       id="rect1232"
+       width="57.226765"
+       height="35"
+       x="8.3866177"
+       y="17.166599"
+       rx="0"
+       ry="0" />
+    <g
+       id="g9573"
+       transform="matrix(1.3116287,0,0,1.3116287,-94.384177,25.989851)">
+      <g
+         id="g8554">
+        <circle
+           style="fill:none;stroke:#ff2a2a;stroke-width:0.798549;stroke-dasharray:none"
+           id="path1937"
+           cx="90.829895"
+           cy="13.699689"
+           r="4.3594217" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82223px;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#ff5599;stroke:#ff5599;stroke-width:0.3;stroke-dasharray:none"
+           x="88.9757"
+           y="14.484327"
+           id="text1960"><tspan
+             sodipodi:role="line"
+             id="tspan1958"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:slave;-inkscape-font-specification:slave;fill:#ff5599;stroke:#ff5599;stroke-width:0.3;stroke-dasharray:none"
+             x="88.9757"
+             y="14.484327">A</tspan></text>
+      </g>
+      <g
+         id="g8549">
+        <circle
+           style="fill:none;stroke:#2a2aff;stroke-width:0.798549;stroke-dasharray:none"
+           id="circle2069"
+           cx="109.50755"
+           cy="13.699689"
+           r="4.3594217" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82223px;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#ff5599;stroke:#ff5599;stroke-width:0.3;stroke-dasharray:none"
+           x="108.22059"
+           y="14.673412"
+           id="text2073"><tspan
+             sodipodi:role="line"
+             id="tspan2071"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:slave;-inkscape-font-specification:slave;fill:#80b3ff;stroke:#80b3ff;stroke-width:0.3;stroke-dasharray:none"
+             x="108.22059"
+             y="14.673412">F</tspan></text>
+      </g>
+      <path
+         style="fill:#0000d4;stroke:#008000;stroke-width:0.27744;stroke-dasharray:none;marker-start:url(#marker2999);marker-end:url(#RoundedArrow)"
+         d="M 93.906321,13.699689 H 106.57872"
+         id="path2238" />
+    </g>
+    <g
+       id="g10735"
+       transform="matrix(1.3116287,0,0,1.3116287,-94.010745,25.989851)">
+      <path
+         style="fill:none;stroke:#803300;stroke-width:0.239051;stroke-dasharray:none;marker-start:url(#Tail)"
+         d="M 99.884016,11.485044 V 2.1044632"
+         id="path3298" />
+      <g
+         id="g9786"
+         transform="translate(-0.28684766)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.67023px;font-family:serif;-inkscape-font-specification:serif;text-align:justify;fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.0742;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="106.97765"
+           y="6.9355135"
+           id="text8388"
+           transform="scale(0.82094399,1.2181099)"><tspan
+             sodipodi:role="line"
+             id="tspan8386"
+             style="font-size:8.67023px;fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.0742"
+             x="106.97765"
+             y="6.9355135">⇊</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.67023px;font-family:serif;-inkscape-font-specification:serif;text-align:justify;fill:#000080;fill-opacity:1;stroke:none;stroke-width:4.0742;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="129.79588"
+           y="6.9355135"
+           id="text9300"
+           transform="scale(0.82094399,1.2181099)"><tspan
+             sodipodi:role="line"
+             id="tspan9298"
+             style="font-size:8.67023px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:4.0742"
+             x="129.79588"
+             y="6.9355135">⇊</tspan></text>
+      </g>
+      <ellipse
+         style="fill:#ffccaa;stroke:#d45500;stroke-width:0.270456;stroke-dasharray:none"
+         id="path4324"
+         cx="99.884018"
+         cy="0.75111467"
+         rx="14.551291"
+         ry="1.9659947" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.12342px;line-height:0.8;font-family:slave;-inkscape-font-specification:slave;text-align:justify;fill:#552200;stroke:none;stroke-width:0.119419;stroke-dasharray:none"
+         x="99.894127"
+         y="0.8062644"
+         id="text4328"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#552200;stroke-width:0.119419"
+           x="99.894127"
+           y="0.8062644"
+           id="tspan9404">Mongo-Militär, Wirtschaft, Täter</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#552200;stroke-width:0.119419"
+           x="99.894127"
+           y="1.7050004"
+           id="tspan4330">Stoff- und Verhaltens-Süchtige</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         d="m 98.120274,13.153996 h 3.527486"
+         id="path8681" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.455763"
+       id="rect1024"
+       width="59.121845"
+       height="15.257251"
+       x="7.4390769"
+       y="8.5463743"
+       rx="3.6614914"
+       ry="3.440743" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
+       id="rect1172"
+       width="56.962563"
+       height="13.082652"
+       x="8.5187178"
+       y="9.6336737"
+       rx="0"
+       ry="2.3537788" />
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
+       id="rect2207"
+       width="52.725166"
+       height="4.217185"
+       x="10.637415"
+       y="50.920574"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.531517"
+       y="53.768482"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="37.531517"
+         y="53.768482">https://0x8.ch/HackersCardgame_2.0</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:none;stroke-width:0.585104;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.70837221"
+       id="rect29724"
+       width="18.430262"
+       height="4.9443846"
+       x="46.305717"
+       y="44.931896"
+       ry="0"
+       rx="1.7786642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
+       x="55.483902"
+       y="48.674988"
+       id="text27004-5"><tspan
+         sodipodi:role="line"
+         id="tspan27002-6"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
+         x="55.483902"
+         y="48.674988">FTT09</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.559657"
+       id="rect20806"
+       width="9.7512789"
+       height="9.4695749"
+       x="9.8518229"
+       y="11.440212"
+       ry="1.414894" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
+       id="rect20724"
+       width="8.7666445"
+       height="8.4072285"
+       x="10.34414"
+       y="11.971386"
+       ry="1.0408186" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
+       x="12.565024"
+       y="18.947227"
+       id="text20124"><tspan
+         sodipodi:role="line"
+         id="tspan20122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
+         x="12.565024"
+         y="18.947227">☠</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.759911"
+       y="13.85039"
+       id="text28351"
+       inkscape:export-filename="../../png/DE/part2/FTT09.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488"><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="13.85039"
+         id="tspan15693">Mulit-User <tspan
+   style="font-weight:bold;fill:#ff0000"
+   id="tspan11011">FTT</tspan> Malware</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="17.025391"
+         id="tspan1769">(Multi-User = mehrere</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="20.20039"
+         id="tspan1771">Personen)</tspan></text>
+  </g>
+</svg>

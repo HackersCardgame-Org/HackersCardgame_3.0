@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="105mm"
+   viewBox="0 0 74 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="algi02.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4841611"
+     inkscape:cx="114.87971"
+     inkscape:cy="142.16785"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path171" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4992"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4990"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4930"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4928"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="205.86257"
+       height="146.30523"
+       id="rect17087" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.298259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="65"
+       height="93.900375"
+       x="4.5"
+       y="5.5498133"
+       rx="5.1956244"
+       ry="0"
+       inkscape:export-filename="../../png/DE/part2/algi02.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.470152"
+       id="rect964"
+       width="60.851757"
+       height="89.722946"
+       x="6.5741215"
+       y="7.6385288"
+       rx="3.9244702"
+       ry="4.0016785" />
+    <rect
+       style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
+       id="rect1717"
+       width="56.906704"
+       height="41.42675"
+       x="8.546648"
+       y="54.198826"
+       ry="3.0964251" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
+       id="text17085"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="31.304688"
+         y="211.2458"
+         id="tspan2079"><tspan
+           dx="0 0 0 0 0.60902214 0 0 0 0 0 0 0.60902405 0 0 0 0.60902405 0 0 0 0 0.60902405 0 0 0 0 0 0.60902405 0 0 0 0 0.60902405 0 0 0 0 0 0 0.60902405"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2077">Man könnte dem auch &quot;Mind Map&quot; sagen, aber </tspan></tspan><tspan
+         x="31.304688"
+         y="219.2458"
+         id="tspan2083"><tspan
+           dx="0 0 0 0 0.60902214 0 0 0 0 0 0.60902405 0 0 0 0 0 0.60902405 0 0 0 0 0.60902405 0 0 0 0 0 0.60901642 0 0 0 0.60902405 0 0 0.60902405"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2081">ich meine damit eher etwas was in Software </tspan></tspan><tspan
+         x="31.304688"
+         y="227.2458"
+         id="tspan2087"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2085">abgebildet wird.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="235.2458"
+         id="tspan2091"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.7326355 0 0 0 3.7326279 0 0 0 3.7326355 0 0 0 0 0 0 3.7326355 0 0 3.7326355"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2089">Schlussendlich ist das Wissen im Gehirn </tspan></tspan><tspan
+         x="31.304688"
+         y="243.2458"
+         id="tspan2095"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 5.6526337 0 0 0 0 0 0 0 0 0 5.6526337 0 0 0 0 5.6526337 0 0 0 5.6526337 0 0 5.6526337"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2093">irgendwie sortiert, z.B. wie in einer </tspan></tspan><tspan
+         x="31.304688"
+         y="251.2458"
+         id="tspan2099"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 8.2657928 0 0 0 0 8.2657928 0 0 0 0 0 0 0 0 0 0 8.2657928 0 0 0 0 8.2657928"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2097">Bibliotheke nach Fachgebiet dann mit </tspan></tspan><tspan
+         x="31.304688"
+         y="259.2458"
+         id="tspan2103"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2101">Unterkategorien.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="267.2458"
+         id="tspan2107"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 8.5326347 0 0 0 0 8.5326309 0 0 0 8.5326385 0 0 0 8.5326385 0 0 0 8.5326385"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2105">Scheinbar kann man die mit Natural </tspan></tspan><tspan
+         x="31.304688"
+         y="275.2458"
+         id="tspan2111"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.8126297 0 0 0 0 0 0 0 0 0 0 1.8126297 0 0 1.8126373 0 0 0 0 1.8126221 0 0 0 0 0 0 0 0 0 1.8126373"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2109">Language Processing zB beim Schreiben des </tspan></tspan><tspan
+         x="31.304688"
+         y="283.2458"
+         id="tspan2115"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 8.5326347 0 0 8.5326309 0 0 0 0 0 0 0 0 8.5326309 0 0 0 0 8.5326385 0 0 0 0 8.5326385"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2113">Tagebuchs am Computer oder auch in </tspan></tspan><tspan
+         x="31.304688"
+         y="291.2458"
+         id="tspan2119"><tspan
+           dx="0 0 0 0 0 0 0 0 0 7.5726357 0 0 0 7.5726395 0 0 0 7.5726318 0 0 0 0 0 0 0 0 7.5726318 0 0 0 7.5726318"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2117">Gedanken mit dem Erkennen der FTT's </tspan></tspan><tspan
+         x="31.304688"
+         y="299.2458"
+         id="tspan2123"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2121">rausfinden.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="307.2458"
+         id="tspan2127"><tspan
+           dx="0 0 0 0 0 0 0 0.53289413 0 0 0 0.53289413 0 0 0 0 0.53289032 0 0 0.53289795 0 0 0 0 0 0.53289795 0 0.53289795 0 0 0 0 0 0 0 0.53289795 0 0 0 0 0.53289795"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2125">Sobald der Fall &amp;&amp; Täter x genannt wird im </tspan></tspan><tspan
+         x="31.304688"
+         y="315.2458"
+         id="tspan2131"><tspan
+           dx="0 0 0 0 0 0 0 2.7726326 0 0 0 0 2.7726326 0 0 0 0 2.7726288 0 0 0 0 0 0 0 0 0 0 0 0 0 2.7726288 0 0 0 0 2.7726288"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2129">selben Satz oder Gedanken-Gang wird dann </tspan></tspan><tspan
+         x="31.304688"
+         y="323.2458"
+         id="tspan2135"><tspan
+           dx="0 0 0 0 0 16.665798 0 0 0 0 0 0 0 0 0 0 0 16.665794 0 0 0 0 16.665802 0 0 0 0 0 16.665802"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2133">kann automatisch eine Szene / </tspan></tspan><tspan
+         x="31.304688"
+         y="331.2458"
+         id="tspan2139"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.2657928 0 2.2657852 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.2657776 0 0 2.2657928"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2137">Gegen&quot;beweis&quot; / Fremdbspurlegung zu einem </tspan></tspan><tspan
+         x="31.304688"
+         y="339.2458"
+         id="tspan2143"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2141">Sündenbocks eingeblendet werden.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="347.2458"
+         id="tspan2147"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2145">&amp;&amp; = &quot;logisches UND&quot; (braucht Beide FTTs)
+</tspan></tspan><tspan
+         x="31.304688"
+         y="355.2458"
+         id="tspan2151"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2149">
+</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.498943"
+       id="rect1232"
+       width="57.226765"
+       height="35"
+       x="8.3866177"
+       y="17.166599"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:0.8;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#ff0000;stroke:#808000;stroke-width:0.3"
+       x="11.549335"
+       y="31.092325"
+       id="text2646"><tspan
+         sodipodi:role="line"
+         id="tspan2644"
+         style="fill:#808000;stroke:none;stroke-width:0.3"
+         x="11.549335"
+         y="31.092325">Täter 1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:0.3"
+         x="11.549335"
+         y="34.196774"
+         id="tspan2648">Täter 2</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#800080;stroke:none;stroke-width:0.3"
+         x="11.549335"
+         y="37.301224"
+         id="tspan2650">Täter 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.32272px;line-height:0.8;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;display:inline;fill:#ff0000;stroke:#808000;stroke-width:0.179566"
+       x="41.084301"
+       y="32.195499"
+       id="text2646-7"><tspan
+         sodipodi:role="line"
+         style="fill:#008080;stroke:none;stroke-width:0.179566"
+         x="41.084301"
+         y="32.195499"
+         id="tspan2650-1">Sündenbock 1</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:0.179566"
+         x="41.084301"
+         y="34.053677"
+         id="tspan3114">Sündenbock 2</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808000;stroke:none;stroke-width:0.179566"
+         x="41.084301"
+         y="35.91185"
+         id="tspan3116">Sündenbock 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:0.8;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#808000;stroke:none;stroke-width:0.3"
+       x="17.597675"
+       y="46.231812"
+       id="text2960"><tspan
+         sodipodi:role="line"
+         id="tspan2958"
+         style="fill:#ff0000;stroke-width:0.3"
+         x="17.597675"
+         y="46.231812">Fall xy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:0.8;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#808000;stroke:none;stroke-width:0.3"
+       x="28.006351"
+       y="41.623219"
+       id="text3442"><tspan
+         sodipodi:role="line"
+         id="tspan3440"
+         style="fill:#000000;stroke-width:0.3"
+         x="28.006351"
+         y="41.623219">&amp;&amp;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;marker-end:url(#Arrow1L)"
+       d="m 18.347669,38.020881 c -0.451639,2.801447 4.772638,1.743429 7.765245,2.10409"
+       id="path3702"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;marker-end:url(#Arrow1L)"
+       d="m 18.358517,42.213982 c -0.451639,-2.801447 5.113078,-2.387993 7.765245,-2.10409"
+       id="path4740"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;marker-end:url(#marker4930)"
+       d="m 33.278516,40.020586 c 3.249047,0.05508 2.188402,-8.496583 5.691762,-8.683641"
+       id="path4926"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;marker-end:url(#marker4992);marker-start:url(#Stop)"
+       d="m 61.426121,30.569524 0,8.07724"
+       id="path4988"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.91778px;line-height:0.8;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:none;stroke:#000000;stroke-width:0.14826"
+       x="51.273506"
+       y="40.721329"
+       id="text5060"><tspan
+         sodipodi:role="line"
+         id="tspan5058"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.14826"
+         x="51.273506"
+         y="40.721329">wurden mehrere</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.14826"
+         x="51.273506"
+         y="42.255554"
+         id="tspan5062">Sündenböcke vorbereitet </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.14826"
+         x="51.273506"
+         y="43.789776"
+         id="tspan5064">impliziert das Vorsatz</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.455763"
+       id="rect1024"
+       width="59.121845"
+       height="15.257251"
+       x="7.4390769"
+       y="8.5463743"
+       rx="3.6614914"
+       ry="3.440743" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
+       id="rect1172"
+       width="56.962563"
+       height="13.082652"
+       x="8.5187178"
+       y="9.6336737"
+       rx="0"
+       ry="2.3537788" />
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
+       id="rect2207"
+       width="52.725166"
+       height="4.217185"
+       x="10.637415"
+       y="50.920574"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.531517"
+       y="53.768482"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="37.531517"
+         y="53.768482">https://0x8.ch/HackersCardgame_2.0</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:none;stroke-width:0.585104;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.70837221"
+       id="rect29724"
+       width="18.430262"
+       height="4.9443846"
+       x="46.305717"
+       y="44.931896"
+       ry="0"
+       rx="1.7786642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
+       x="55.483902"
+       y="48.674988"
+       id="text27004-5"><tspan
+         sodipodi:role="line"
+         id="tspan27002-6"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
+         x="55.483902"
+         y="48.674988">algi02</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.559657"
+       id="rect20806"
+       width="9.7512789"
+       height="9.4695749"
+       x="9.8518229"
+       y="11.440212"
+       ry="1.414894" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
+       id="rect20724"
+       width="8.7666445"
+       height="8.4072285"
+       x="10.34414"
+       y="11.971386"
+       ry="1.0408186" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
+       x="12.565024"
+       y="18.947227"
+       id="text20124"><tspan
+         sodipodi:role="line"
+         id="tspan20122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
+         x="12.565024"
+         y="18.947227">☠</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.759911"
+       y="18.083723"
+       id="text28351"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="18.083723"
+         id="tspan2247">Wissens-Landkarte</tspan></text>
+  </g>
+</svg>

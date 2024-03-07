@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="105mm"
+   viewBox="0 0 74 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="room01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5473825"
+     inkscape:cx="337.667"
+     inkscape:cy="162.20941"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="205.86257"
+       height="146.30523"
+       id="rect17087" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022-9" />
+    </marker>
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="185.94773"
+       height="81.357745"
+       id="rect17087-7" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.298259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="65"
+       height="93.900375"
+       x="4.5"
+       y="5.5498133"
+       rx="5.1956244"
+       ry="0"
+       inkscape:export-filename="../../png/DE/part2/room01.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.470152"
+       id="rect964"
+       width="60.851757"
+       height="89.722946"
+       x="6.5741215"
+       y="7.6385288"
+       rx="3.9244702"
+       ry="4.0016785" />
+    <rect
+       style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
+       id="rect1717"
+       width="56.906704"
+       height="41.42675"
+       x="8.546648"
+       y="54.198826"
+       ry="3.0964251" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
+       id="text17085"
+       style="font-style:normal;font-weight:normal;font-size:8.26667px;line-height:0.84;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="31.304688"
+         y="210.79377"
+         id="tspan15462"><tspan
+           dx="0 0 0 0 1.7747245 0 0 0 0 1.7747245 0 0 0 1.7747245 0 0 0 0 0 0 0 0 1.7747283 0 0 0 1.7747207 0 0 0 0 0 1.7747207 0 0 0 1.7747207"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15460">Oft wenn ich aufstehe ist alles was ich </tspan></tspan><tspan
+         x="31.304688"
+         y="217.73777"
+         id="tspan15466"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0.5006156 0 0 0 0 0 0.50061178 0 0 0 0 0 0.50061178 0 0 0 0.50061178 0 0 0 0.50061178"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15464">aufgeräumt habe, alles was ich korrigiert </tspan></tspan><tspan
+         x="31.304688"
+         y="224.68177"
+         id="tspan15474"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15468">habe </tspan><tspan
+           style="fill:#ff0000"
+           id="tspan15470">erneut sabotiert</tspan><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15472"> worden.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="231.62577"
+         id="tspan15478"><tspan
+           dx="0 0 0 0 0.35757971 0 0 0 0 0 0.35757971 0 0 0 0 0.35758352 0 0 0 0 0 0.35757589 0 0 0 0.35757589 0 0 0 0 0.35759115 0 0 0 0 0 0 0.35757589"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15476">Das wirkt dann immer wie wenn jemand über </tspan></tspan><tspan
+         x="31.304688"
+         y="238.56977"
+         id="tspan15482"><tspan
+           dx="0 0 0 0 0 1.2438445 0 0 0 1.2438483 0 0 0 0 0 1.2438445 0 0 0 0 0 0 0 1.2438445 0 0 0 0 0 0 1.2438369 0 0 0 0 0 0 1.2438369"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15480">mich und meine Wohnung drüber gesaut hat </tspan></tspan><tspan
+         x="31.304688"
+         y="245.51377"
+         id="tspan15486"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.50061178 0 0 0 0 0 0 0.50061178 0 0 0.50061178 0 0 0 0.50061178 0 0 0 0 0 0 0.50061178"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15484">(HackersCardgame 1.0.24 :: m15 Karte) und </tspan></tspan><tspan
+         x="31.304688"
+         y="252.45777"
+         id="tspan15490"><tspan
+           dx="0 0 0 0 0 0 0 4.1410232 0 0 0 0 0 4.1410232 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.1410232"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15488">schürt meine VergewaltigunsÄngste, auch </tspan></tspan><tspan
+         x="31.304688"
+         y="259.40177"
+         id="tspan15494"><tspan
+           dx="0 0 0 0 0 5.4606185 0 0 0 0 0 0 5.4606185 0 0 0 0 0 5.4606185 0 0 0 0 0 0 0 0 5.4606185 0 0 0 5.4606185"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15492">wenn Männer gemäs CH-Recht gar nicht </tspan></tspan><tspan
+         x="31.304688"
+         y="266.34577"
+         id="tspan15498"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15496">vergewaltigt werden können.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="273.28977"
+         id="tspan15504"><tspan
+           dx="0 0 0 1.2438455 0 0 0 0 0 0 0 0 0 0 0 0 1.2438445 0 0 0 1.2438445 0 0 1.2438445"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15500">In Wirklichkeit ist es eine </tspan><tspan
+           dx="1.2438369 0 0 0 0 0 0 0 0 1.2438521"
+           style="font-weight:bold;fill:#ff0000"
+           id="tspan15502">Sammlung von </tspan></tspan><tspan
+         x="31.304688"
+         y="280.23377"
+         id="tspan15510"><tspan
+           style="font-weight:bold;fill:#ff0000"
+           id="tspan15506">Malware</tspan><tspan
+           dx="0 2.8971801 0 0 0 2.8971801 0 0 0 2.8971763 0 0 0 0 2.8971763 0 0 0 2.8971839 0 0 0 0 0 2.8971686"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15508"> die auf mich und meine Wohnung </tspan></tspan><tspan
+         x="31.304688"
+         y="287.17777"
+         id="tspan15516"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 2.0705123"
+           style="fill:#ff0000"
+           id="tspan15512">übertragen wurde</tspan><tspan
+           dx="0 0 2.0705123 0 0 0 2.0705123 0 0 0 0 0 0 2.0705047 0 0 0 2.0705199 0 0 2.0705123"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15514">. Das machen die um die </tspan></tspan><tspan
+         x="31.304688"
+         y="294.12177"
+         id="tspan15520"><tspan
+           dx="0 0 0 0 0 0 0 0 1.8657699 0 0 0 0 0 1.8657699 0 0 0 0 0 0 0 0 0 1.8657699 0 0 0 0 0 1.8657699"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15518">Zeugen, Opfer möglichst davon abzuhalten </tspan></tspan><tspan
+         x="31.304688"
+         y="301.06577"
+         id="tspan15524"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 16.745783 0 0 0 16.745783 0 0 0 0 0 16.74579 0 0 0 0 16.745775"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15522">auszusagen und deren Zeit zu </tspan></tspan><tspan
+         x="31.304688"
+         y="308.00977"
+         id="tspan15528"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15526">verschwenden.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="314.95377"
+         id="tspan15532"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15530">
+</tspan></tspan><tspan
+         x="31.304688"
+         y="321.89777"
+         id="tspan15540"><tspan
+           dx="0 0 0 0 1.7747245 0 0 0 1.7747245 0 0 0 1.7747245 0 0 0 0 1.7747283"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15534">GPO ist ein Wort von </tspan><tspan
+           dx="1.7747283 0 0 0 0 0 0 0 1.7747359"
+           style="font-weight:bold;fill:#808000"
+           id="tspan15536">Windows Server</tspan><tspan
+           dx="0 0 1.7747207"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15538">, es </tspan></tspan><tspan
+         x="31.304688"
+         y="328.84177"
+         id="tspan15548"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15542">heisst </tspan><tspan
+           dx="0.41717672 0 0 0 0 0 0.41717672 0 0 0 0 0 0 0.41717672"
+           style="font-weight:bold"
+           id="tspan15544">Group Policy Object</tspan><tspan
+           dx="0 0 0.41717672 0 0 0 0.41717672 0 0 0 0 0 0.41717672"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15546">. Wer schon mal </tspan></tspan><tspan
+         x="31.304688"
+         y="335.78577"
+         id="tspan15552"><tspan
+           dx="0 0 0 0 5.4606185 0 0 5.4606185 0 0 0 0 0 5.4606185 0 0 0 0 0 0 0 0 0 0 5.4606185 0 0 0 5.4606185"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15550">mit so etwas gearbeitet hat versteht </tspan></tspan><tspan
+         x="31.304688"
+         y="342.72977"
+         id="tspan15556"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.865766 0 0 0 1.865766 0 0 0 1.8657622 0 0 0 0 0 0 0 0 0 1.8657699"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15554">ungefähr wie das technisch funktioniert. </tspan></tspan><tspan
+         x="31.304688"
+         y="349.67377"
+         id="tspan15564"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15558">=&gt; </tspan><tspan
+           style="font-weight:bold;fill:#808000"
+           id="tspan15560">git rollback</tspan><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan15562"> 
+</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.498943"
+       id="rect1232"
+       width="57.226765"
+       height="35"
+       x="8.3866177"
+       y="17.166599"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18722px;line-height:0.9;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;fill:#ff0000;fill-opacity:0;stroke:#008000;stroke-width:0.1;stroke-dasharray:none"
+       x="8.5247355"
+       y="26.609417"
+       id="text13120"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18722px;font-family:serif;-inkscape-font-specification:serif;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="8.5247355"
+         y="26.609417"
+         id="tspan13844" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.29273002,0,0,0.29273002,0.89902403,-34.672732)"
+       id="text17085-4"
+       style="font-style:normal;font-weight:normal;font-size:7.83335px;line-height:0.92;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="31.304688"
+         y="210.80167"
+         id="tspan15566">[x] ICD10 F98.2
+</tspan><tspan
+         x="31.304688"
+         y="218.00835"
+         id="tspan15568">[x] ICD10 R05
+</tspan><tspan
+         x="31.304688"
+         y="225.21503"
+         id="tspan15570">[x] ICD10 R52.1
+</tspan><tspan
+         x="31.304688"
+         y="232.42171"
+         id="tspan15572">[x] ICD10 F44.x
+</tspan><tspan
+         x="31.304688"
+         y="239.62839"
+         id="tspan15574">[x] alles was man anfasst wird im 3D Modell
+</tspan><tspan
+         x="31.304688"
+         y="246.83507"
+         id="tspan15576">als &quot;ist Corona Infiziert&quot; eingeblendet
+</tspan><tspan
+         x="31.304688"
+         y="254.04175"
+         id="tspan15578">[x] [0.3]  Karte aktiviert
+</tspan><tspan
+         x="31.304688"
+         y="261.24843"
+         id="tspan15580">[x] Kastentüren offen lassen und Kopf anschlagen
+</tspan><tspan
+         x="31.304688"
+         y="268.45511"
+         id="tspan15582">[x] ... 
+</tspan><tspan
+         x="31.304688"
+         y="275.6618"
+         id="tspan15584">
+</tspan><tspan
+         x="31.304688"
+         y="282.8685"
+         id="tspan15586">Das werden leider immer mehr ...</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.455763"
+       id="rect1024"
+       width="59.121845"
+       height="15.257251"
+       x="7.4390769"
+       y="8.5463743"
+       rx="3.6614914"
+       ry="3.440743" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
+       id="rect1172"
+       width="56.962563"
+       height="13.082652"
+       x="8.5187178"
+       y="9.6336737"
+       rx="0"
+       ry="2.3537788" />
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
+       id="rect2207"
+       width="52.725166"
+       height="4.217185"
+       x="10.637415"
+       y="50.920574"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.531517"
+       y="53.768482"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="37.531517"
+         y="53.768482">https://0x8.ch/HackersCardgame_2.0</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:none;stroke-width:0.585104;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.70837221"
+       id="rect29724"
+       width="18.430262"
+       height="4.9443846"
+       x="46.305717"
+       y="44.931896"
+       ry="0"
+       rx="1.7786642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
+       x="55.483902"
+       y="48.674988"
+       id="text27004-5"><tspan
+         sodipodi:role="line"
+         id="tspan27002-6"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
+         x="55.483902"
+         y="48.674988">room01</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.559657"
+       id="rect20806"
+       width="9.7512789"
+       height="9.4695749"
+       x="9.8518229"
+       y="11.440212"
+       ry="1.414894" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
+       id="rect20724"
+       width="8.7666445"
+       height="8.4072285"
+       x="10.34414"
+       y="11.971386"
+       ry="1.0408186" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
+       x="12.565024"
+       y="18.947227"
+       id="text20124"><tspan
+         sodipodi:role="line"
+         id="tspan20122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
+         x="12.565024"
+         y="18.947227">☠</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.18722px;font-family:serif;-inkscape-font-specification:serif;text-align:justify;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       x="82.236008"
+       y="41.419353"
+       id="text14582"><tspan
+         sodipodi:role="line"
+         id="tspan14580"
+         style="stroke-width:0.1"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35598"
+       x="42.74659"
+       y="13.658"
+       id="text28351"
+       inkscape:export-filename="../../png/DE/part2/FTT13.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.35598"
+         x="42.74659"
+         y="13.658"
+         id="tspan12835">Mengen von GPO's die </tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.35598"
+         x="42.74659"
+         y="17.18578"
+         id="tspan12839">auf Körper oder Wohung </tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.35598"
+         x="42.74659"
+         y="20.71356"
+         id="tspan12847">übertragen wurde</tspan></text>
+  </g>
+</svg>

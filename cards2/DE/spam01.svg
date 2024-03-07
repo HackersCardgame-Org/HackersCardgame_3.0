@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="105mm"
+   viewBox="0 0 74 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="spam01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4841611"
+     inkscape:cx="-56.260738"
+     inkscape:cy="152.94835"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1246"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1244"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12047"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path12045"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <rect
+       x="72.66047"
+       y="175.63847"
+       width="5.6613422"
+       height="36.123627"
+       id="rect8969" />
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="205.86257"
+       height="146.30523"
+       id="rect17087" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.298259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="65"
+       height="93.900375"
+       x="4.5"
+       y="5.5498133"
+       rx="5.1956244"
+       ry="0"
+       inkscape:export-filename="../../png/DE/part2/spam01.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.470152"
+       id="rect964"
+       width="60.851757"
+       height="89.722946"
+       x="6.5741215"
+       y="7.6385288"
+       rx="3.9244702"
+       ry="4.0016785" />
+    <rect
+       style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
+       id="rect1717"
+       width="56.906704"
+       height="41.42675"
+       x="8.546648"
+       y="54.198826"
+       ry="3.0964251" />
+    <circle
+       style="display:inline;fill:#ffff00;stroke:#0000ff;stroke-width:0.4"
+       id="path580-7"
+       cx="10.532011"
+       cy="81.994156"
+       r="0.5685879" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
+       id="text17085"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="31.304688"
+         y="211.8458"
+         id="tspan2252"><tspan
+           dx="0 0 0 0 3.4657898 0 0 0 0 0 3.4657898 0 0 0 0 0 0 0 0 3.4657898 0 0 0 0 0 0 0 0 0 0 0 3.4657898"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2250">Die Täter und/oder Algorithmen erkennen, </tspan></tspan><tspan
+         x="31.304688"
+         y="221.24668"
+         id="tspan2256"><tspan
+           dx="0 0 0 0 0 0.60902214 0 0 0 0.60902405 0 0 0 0 0.60902023 0 0 0 0 0.60902405 0 0 0 0 0 0 0 0 0.60902405 0 0 0 0 0 0.60902405 0 0 0 0 0 0.60902405"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2254">wenn sie mich dazu gebracht haben Dinge zu </tspan></tspan><tspan
+         x="31.304688"
+         y="230.64756"
+         id="tspan2260"><tspan
+           dx="0 0 0 0 0 0 0 1.294735 0 0 0 1.2947388 0 0 0 1.2947388 0 0 0 0 0 1.2947388 0 0 0 0 0 0 0 1.2947388 0 0 0 0 1.2947388 0 0 1.2947388"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2258">machen die ich nicht wollte, z.B. so fest </tspan></tspan><tspan
+         x="31.304688"
+         y="240.04843"
+         id="tspan2264"><tspan
+           dx="0 0 0 0 0 0 0 0 0 11.865795 0 0 0 0 11.865791 0 0 0 11.865791 0 0 0 0 0 0 0 0 11.865799"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2262">stressen dass ich irgendwo drüber </tspan></tspan><tspan
+         x="31.304688"
+         y="249.44931"
+         id="tspan2268"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2266">stolpere.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="258.85019"
+         id="tspan2272"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2270">
+</tspan></tspan><tspan
+         x="31.304688"
+         y="268.25107"
+         id="tspan2276"><tspan
+           dx="0 0 0 0 0 0 0 5.8657913 0 0 0 0 5.8657913 0 0 0 5.8657913 0 0 0 0 0 0 0 0 0 0 5.8657837"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2274">Darauf wird ein Multi-Fork Algorithmus </tspan></tspan><tspan
+         x="31.304688"
+         y="277.65195"
+         id="tspan2280"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 8.5326347 0 0 0 8.5326309 0 0 0 0 8.5326385 0 0 0 0 0 8.5326385 0 0 0 0 8.5326385"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2278">aktiviert die grad alles auch noch </tspan></tspan><tspan
+         x="31.304688"
+         y="287.05283"
+         id="tspan2284"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2282">einschlatet was mich stresst
+</tspan></tspan><tspan
+         x="31.304688"
+         y="296.45371"
+         id="tspan2288"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2286">
+</tspan></tspan><tspan
+         x="31.304688"
+         y="305.85459"
+         id="tspan2292"><tspan
+           dx="0 1.0070171 1.0070171 0 0 0 1.0070171 0 0 0 0 0 1.0070152 0 0 0 0 1.007019 0 0 0 0 1.007019 0 0 0 0 0 0 0 1.007019 0 0 0 0 1.007019 0 0 1.007019"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2290">  man sagt: &quot;Auf jede Aussage gibt es nur </tspan></tspan><tspan
+         x="31.304688"
+         y="315.25547"
+         id="tspan2296"><tspan
+           dx="0 0 0 0 0 17.421062 0 0 0 0 0 0 0 0 0 17.421066 0 0 0 0 0 0 17.421066"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2294">eine begrenzte Anzahl sinnvoller </tspan></tspan><tspan
+         x="31.304688"
+         y="324.65635"
+         id="tspan2300"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 14.221062 0 0 0 0 0 0 14.221054 0 0 0 0 0 0 0 0 14.221054"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2298">Antworten&quot;. Einige Traumata können </tspan></tspan><tspan
+         x="31.304688"
+         y="334.05722"
+         id="tspan2304"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 1.8126297 0 0 0 1.8126297 0 0 1.8126373 0 0 0 0 0 0 1.8126297 0 0 0 0 0 0 0 0 0 1.8126373"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2302">besonders gut an andere angehängt werden, </tspan></tspan><tspan
+         x="31.304688"
+         y="343.4581"
+         id="tspan2308"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan2306">das scheint Satan auch zu berücksichtigen.</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.498943"
+       id="rect1232"
+       width="57.226765"
+       height="35"
+       x="8.3866177"
+       y="17.166599"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8967"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;white-space:pre;shape-inside:url(#rect8969);display:inline;fill:#0000ff;stroke-width:7.55906" />
+    <path
+       style="fill:#0000ff;stroke-width:0.5;stroke:#ff0000;stroke-dasharray:none;marker-end:url(#Arrow1L)"
+       d="m 19.176003,28.386222 7.052858,4.653161"
+       id="path11037" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 28.447505,34.648697 5.078118,-0.848529"
+       id="path12027"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="M 30.657789,34.549466 37.48746,42.47157"
+       id="path12029" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 35.862477,39.72769 6.053214,-2.717594"
+       id="path12031" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 36.503139,33.036248 4.69613,-3.66151"
+       id="path12033"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 39.600253,30.331714 9.497822,2.964108"
+       id="path12035" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 39.864702,38.263044 6.402271,4.638712"
+       id="path12037" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 35.702136,33.846825 10.846173,2.82588"
+       id="path12039" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 35.963275,41.030776 -2.35635,6.018397"
+       id="path12041" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.499999;stroke-dasharray:none;marker-end:url(#marker12047)"
+       d="m 37.372559,42.362067 6.624416,2.606696"
+       id="path12043" />
+    <circle
+       style="display:inline;fill:#ffff00;stroke:#0000ff;stroke-width:0.4"
+       id="path580"
+       cx="35.565125"
+       cy="39.843636"
+       r="0.5685879" />
+    <circle
+       style="display:inline;fill:#ffff00;stroke:#0000ff;stroke-width:0.4"
+       id="path580-3"
+       cx="30.840935"
+       cy="34.228088"
+       r="0.5685879" />
+    <circle
+       style="display:inline;fill:#ffff00;stroke:#0000ff;stroke-width:0.4"
+       id="path580-6"
+       cx="36.19656"
+       cy="33.522663"
+       r="0.5685879" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.04676px;line-height:0.5;text-align:justify;fill:#ff6600;stroke:#0000ff;stroke-width:0.0723919;stroke-dasharray:none"
+       x="29.539989"
+       y="25.23035"
+       id="text1464"><tspan
+         sodipodi:role="line"
+         id="tspan1462"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="25.23035">schon bevor</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="25.753729"
+         id="tspan1466">die eine Malware</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="26.277109"
+         id="tspan1468">drin haben</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="26.800488"
+         id="tspan1470">versuchen die </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="27.323866"
+         id="tspan1472">nachzuladen und</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="27.847246"
+         id="tspan1474">nächste Malware</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="28.370625"
+         id="tspan1476">zu starten</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="28.894001"
+         id="tspan1964">psychotisch oder</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="29.417379"
+         id="tspan1966">zwnagsneurotsich</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.04676px;text-align:center;text-anchor:middle;fill:#ff6600;stroke:none;stroke-width:0.0723919"
+         x="29.539989"
+         y="29.94076"
+         id="tspan1968">oder trieb/Drogen?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:0.8;text-align:center;text-anchor:middle;fill:#0000ff;stroke:#ff6600;stroke-width:0.2"
+       x="37.457394"
+       y="25.333487"
+       id="text546"><tspan
+         sodipodi:role="line"
+         id="tspan544"
+         style="text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.2"
+         x="37.457394"
+         y="25.333487">Also das wirkt fast so, als ob man den Opfern</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.2"
+         x="37.457394"
+         y="26.180151"
+         id="tspan600">einreden <tspan
+   style="font-weight:bold;fill:#0000ff"
+   id="tspan806">möchte</tspan>, sie seinen auch Täter damit </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.2"
+         x="37.457394"
+         y="27.026815"
+         id="tspan812">sie sich nicht mehr getrauen auszusagen, <tspan
+   style="font-weight:bold"
+   id="tspan1976">WTF</tspan></tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.2;marker-end:url(#TriangleStart)"
+       d="m 37.105521,25.166313 -2.307677,0.997622"
+       id="path868"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.455763"
+       id="rect1024"
+       width="59.121845"
+       height="15.257251"
+       x="7.4390769"
+       y="8.5463743"
+       rx="3.6614914"
+       ry="3.440743" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
+       id="rect1172"
+       width="56.962563"
+       height="13.082652"
+       x="8.5187178"
+       y="9.6336737"
+       rx="0"
+       ry="2.3537788" />
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
+       id="rect2207"
+       width="52.725166"
+       height="4.217185"
+       x="10.637415"
+       y="50.920574"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.531517"
+       y="53.768482"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="37.531517"
+         y="53.768482">https://0x8.ch/HackersCardgame_2.0</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:none;stroke-width:0.585104;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.70837221"
+       id="rect29724"
+       width="18.430262"
+       height="4.9443846"
+       x="46.305717"
+       y="44.931896"
+       ry="0"
+       rx="1.7786642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
+       x="55.483902"
+       y="48.674988"
+       id="text27004-5"><tspan
+         sodipodi:role="line"
+         id="tspan27002-6"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
+         x="55.483902"
+         y="48.674988">spam01</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.559657"
+       id="rect20806"
+       width="9.7512789"
+       height="9.4695749"
+       x="9.8518229"
+       y="11.440212"
+       ry="1.414894" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
+       id="rect20724"
+       width="8.7666445"
+       height="8.4072285"
+       x="10.34414"
+       y="11.971386"
+       ry="1.0408186" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
+       x="11.150147"
+       y="19.036364"
+       id="text20124"><tspan
+         sodipodi:role="line"
+         id="tspan20122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
+         x="11.150147"
+         y="19.036364">☠</tspan></text>
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.2;marker-end:url(#marker1246);stroke-dasharray:none"
+       d="m 34.356029,33.587502 -0.68888,-1.729219 2.387325,-2.887244 1.544072,1.330614"
+       id="path419"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.05694px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.759911"
+       y="15.437889"
+       id="text28351"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="15.437889"
+         id="tspan8973">Spam Design Pattern</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="19.089134"
+         id="tspan10981">Multi-Fork</tspan></text>
+  </g>
+</svg>
