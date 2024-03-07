@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="105mm"
+   viewBox="0 0 74 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="in02.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="97.934289"
+     inkscape:cy="242.53763"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path171" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <rect
+       x="31.304922"
+       y="204.96759"
+       width="205.86257"
+       height="146.30523"
+       id="rect17087" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path26711"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27024-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27022-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.298259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="65"
+       height="93.900375"
+       x="4.5"
+       y="5.5498133"
+       rx="5.1956244"
+       ry="0"
+       inkscape:export-filename="../../png/DE/in02.png"
+       inkscape:export-xdpi="622.37488"
+       inkscape:export-ydpi="622.37488" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.470152"
+       id="rect964"
+       width="60.851757"
+       height="89.722946"
+       x="6.5741215"
+       y="7.6385288"
+       rx="3.9244702"
+       ry="4.0016785" />
+    <rect
+       style="fill:#d7d7f4;stroke:none;stroke-width:0.475741"
+       id="rect1717"
+       width="56.906704"
+       height="41.42675"
+       x="8.546648"
+       y="54.198826"
+       ry="3.0964251" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3068987,1.6405857)"
+       id="text17085"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17087);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="100.73606"
+       y="0"><tspan
+         x="31.304688"
+         y="211.8458"
+         id="tspan3293"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3287">Ein </tspan><tspan
+           dx="3.396637"
+           style="font-weight:bold;text-align:justify"
+           id="tspan3289">(Event-)Trigger</tspan><tspan
+           dx="0 3.396637 0 0 0 3.396637 0 0 0 3.396637 0 0 0 0 0 0 0 0 0 0 3.396637"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3291"> ist ein Codeblock, den </tspan></tspan><tspan
+         x="31.304688"
+         y="221.0458"
+         id="tspan3297"><tspan
+           dx="0 0 0 0 0.60902214 0 0 0 0.60902405 0 0 0 0 0 0 0 0 0.60902405 0 0 0 0 0 0 0 0.60902405 0 0 0 0 0.60902405 0 0 0 0.60902405 0 0 0 0 0.60902405"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3295">der ein Ereignis erkennt (was man z.B. mit </tspan></tspan><tspan
+         x="31.304688"
+         y="230.24579"
+         id="tspan3303"><tspan
+           dx="0 0 0 0 0 0 0 0 2.8858147 0 0 0 0 0 0 0 0 2.8858109"
+           style="font-weight:bold;text-align:justify"
+           id="tspan3299">Natural Language Processing</tspan><tspan
+           dx="0 2.8858109 0 0 0 0 0 0 2.8858109"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3301"> (ne03) erkennen </tspan></tspan><tspan
+         x="31.304688"
+         y="239.44579"
+         id="tspan3307"><tspan
+           dx="0 0 0 0 0 0 0 0 0 2.7726326 0 0 0 0 0 0 0 2.7726364 0 0 0 0 2.7726288 0 0 0 2.7726288 0 0 0 0 2.7726288"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3305">erkennen könnte, z.B. das Wort &quot;ECHELON&quot; </tspan></tspan><tspan
+         x="31.304688"
+         y="248.64579"
+         id="tspan3311"><tspan
+           dx="0 0 0 0 1.5105267 0 0 0 0 1.5105286 0 0 0 1.5105247 0 0 0 0 1.5105286 0 0 0 0 0 1.5105209 0 0 0 0 0 0 0 0 0 0 0 0 1.5105286"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3309">vom CIA) und dann einen spezifischen Code </tspan></tspan><tspan
+         x="31.304688"
+         y="257.84578"
+         id="tspan3315"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3313">ausführt wenn das Ereignis eintritt.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="267.04578"
+         id="tspan3319"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3317">
+</tspan></tspan><tspan
+         x="31.304688"
+         y="276.24579"
+         id="tspan3323"><tspan
+           dx="0 0 0 7.0657921 0 0 0 0 7.0657921 0 0 0 7.0657883 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7.0657959"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3321">Im Fall des Schlüsselwortes &quot;Echelon&quot; </tspan></tspan><tspan
+         x="31.304688"
+         y="285.4458"
+         id="tspan3327"><tspan
+           dx="0 0 0 0 0 0 0 2.7726326 0 0 0 0 0 0 0 0 0 0 2.7726364 0 0 0 2.7726288 0 0 0 0 0 0 0 2.7726288 0 0 0 2.7726288"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3325">würden vermutlich die Agenten die dieses </tspan></tspan><tspan
+         x="31.304688"
+         y="294.64582"
+         id="tspan3331"><tspan
+           dx="0 0 0 0 0 6.6126347 0 0 0 0 0 0 6.6126328 0 0 0 0 0 0 6.6126404 0 0 0 0 0 0 0 6.6126251 0 0 0 0 6.6126404"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3329">Ding geheim halten möchten dann eher </tspan></tspan><tspan
+         x="31.304688"
+         y="303.84583"
+         id="tspan3335"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 1.8126297 0 0 0 0 0 0 1.8126297 0 0 0 1.8126373 0 0 0 0 0 0 0 0 1.8126221 0 0 1.8126373"
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3333">ungemütlich werden und anfangen zu nerven </tspan></tspan><tspan
+         x="31.304688"
+         y="313.04584"
+         id="tspan3339"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:justify"
+           id="tspan3337">selbst wenn man im Bett liegt.
+</tspan></tspan><tspan
+         x="31.304688"
+         y="322.24585"
+         id="tspan3347"><tspan
+           style="font-weight:bold;fill:#ff0000"
+           id="tspan3341">UPDATE</tspan><tspan
+           dx="0 0 7.5726357 0 0 0 0 0 0 0 0 0 7.5726357 0 0 0 0 7.5726395 0 0 0 0 0 7.5726318"
+           style="fill:#ff0000"
+           id="tspan3343">: scheinbar wird jetzt an </tspan><tspan
+           dx="7.5726318"
+           style="font-weight:bold"
+           id="tspan3345">FTT </tspan></tspan><tspan
+         x="31.304688"
+         y="331.44587"
+         id="tspan3353"><tspan
+           style="font-weight:bold"
+           id="tspan3349">Recognition</tspan><tspan
+           dx="0 2.7726326 0 0 0 0 0 0 0 2.7726326 0 0 0 0 2.7726212 0 0 0 2.7726364 0 0 0 0 0 2.7726288"
+           style="fill:#ff0000"
+           id="tspan3351"> erkannt wenn ein Opfer einen </tspan></tspan><tspan
+         x="31.304688"
+         y="340.64588"
+         id="tspan3357"><tspan
+           dx="0 0 0 0 0 0 0 0 0 14.221058 0 0 0 0 0 0 0 0 14.221054 0 0 0 0 14.221054"
+           style="fill:#ff0000"
+           id="tspan3355">Auslöser erkennt, dann automstisch </tspan></tspan><tspan
+         x="31.304688"
+         y="349.84589"
+         id="tspan3361"><tspan
+           style="fill:#ff0000"
+           id="tspan3359">geändert und spammed mit anderenm Spam</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.498943"
+       id="rect1232"
+       width="57.226765"
+       height="35"
+       x="8.3866177"
+       y="17.166599"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="9.7378616"
+       y="37.769249"
+       id="text25853"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan25851"
+         x="9.7378616"
+         y="37.769249"
+         style="fill:#000000;stroke-width:0.467437">Event 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="41.766663"
+       y="28.179564"
+       id="text25853-8"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan25851-9"
+         x="41.766663"
+         y="28.179564"
+         style="fill:#ff0000;stroke-width:0.467437">Action 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="41.766663"
+       y="35.215008"
+       id="text25853-7"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan25851-3"
+         x="41.766663"
+         y="35.215008"
+         style="fill:#008000;stroke-width:0.467437">Action 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="41.766663"
+       y="49.285881"
+       id="text25853-7-6"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan25851-3-1"
+         x="41.766663"
+         y="49.285881"
+         style="fill:#808000;stroke-width:0.467437">Action n</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27024)"
+       d="M 28.985254,36.187385 39.937827,27.532732"
+       id="path25899"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 28.992785,36.308546 40.113879,46.52632"
+       id="path25901"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27024-2)"
+       d="M 29.241614,36.2813 39.677909,33.736999"
+       id="path25899-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="41.766663"
+       y="42.250443"
+       id="text25853-7-6-1"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan25851-3-1-9"
+         x="41.766663"
+         y="42.250443"
+         style="fill:#808000;stroke-width:0.467437">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.467437"
+       x="9.7378616"
+       y="45.255272"
+       id="text875"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="9.7378616"
+         y="45.255272"
+         style="fill:#cccccc;stroke:none;stroke-width:0.467437">Event 2</tspan></text>
+    <path
+       style="display:inline;fill:#cccccc;stroke:#cccccc;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27024)"
+       d="M 27.386862,43.557213 39.937827,27.532732"
+       id="path1368"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <path
+       style="display:inline;fill:#cccccc;stroke:#cccccc;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27024-2)"
+       d="M 27.386862,43.557213 39.677909,33.736999"
+       id="path1417"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <path
+       style="display:inline;fill:#cccccc;stroke:#cccccc;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 27.386862,43.557213 40.113879,46.52632"
+       id="path1468"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/t14.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:0;stroke:#ff0000;stroke-width:0.163879;marker-start:url(#Stop);marker-end:url(#Arrow1L)"
+       d="m 11.209151,38.046516 v 2.412059"
+       id="path1626" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;line-height:0.9;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:justify;text-anchor:start;opacity:1;fill:#cccccc;fill-opacity:0;stroke:#ff0000;stroke-width:0.0860494"
+       x="12.8221"
+       y="39.610821"
+       id="text2629"><tspan
+         sodipodi:role="line"
+         id="tspan2627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.0860494"
+         x="12.8221"
+         y="39.610821">Trigger</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.0860494"
+         x="12.8221"
+         y="41.224998"
+         id="tspan2681">aufgeflogen</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.455763"
+       id="rect1024"
+       width="59.121845"
+       height="15.257251"
+       x="7.4390769"
+       y="8.5463743"
+       rx="3.6614914"
+       ry="3.440743" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:none;stroke-width:0.414257"
+       id="rect1172"
+       width="56.962563"
+       height="13.082652"
+       x="8.5187178"
+       y="9.6336737"
+       rx="0"
+       ry="2.3537788" />
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.404665"
+       id="rect2207"
+       width="52.725166"
+       height="4.217185"
+       x="10.637415"
+       y="50.920574"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.64583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.531517"
+       y="53.768482"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         style="font-size:2.64583px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="37.531517"
+         y="53.768482">https://0x8.ch/HackersCardgame_2.0</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:none;stroke-width:0.585104;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.70837221"
+       id="rect29724"
+       width="18.430262"
+       height="4.9443846"
+       x="46.305717"
+       y="44.931896"
+       ry="0"
+       rx="1.7786642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290946"
+       x="55.483902"
+       y="48.674988"
+       id="text27004-5"><tspan
+         sodipodi:role="line"
+         id="tspan27002-6"
+         style="font-weight:bold;font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290946"
+         x="55.483902"
+         y="48.674988">in02</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.559657"
+       id="rect20806"
+       width="9.7512789"
+       height="9.4695749"
+       x="9.8518229"
+       y="11.440212"
+       ry="1.414894" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.499999"
+       id="rect20724"
+       width="8.7666445"
+       height="8.4072285"
+       x="10.34414"
+       y="11.971386"
+       ry="1.0408186" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983"
+       x="12.565024"
+       y="18.947227"
+       id="text20124"><tspan
+         sodipodi:role="line"
+         id="tspan20122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.1983"
+         x="12.565024"
+         y="18.947227">☠</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.05694px;line-height:0.9;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.759911"
+       y="15.437888"
+       id="text28351"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:4.05694px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="15.437888"
+         id="tspan40664">Event Trigger</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:4.05694px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="42.759911"
+         y="19.089134"
+         id="tspan76392" /></text>
+  </g>
+</svg>
